@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tasks"
+        android:icon="@drawable/ic_tasks"
+        android:title="Tasks"
+        />
+    <item
+        android:id="@+id/projects"
+        android:icon="@drawable/ic_projects"
+        android:title="Projects"
+
+        />
+    <item
+        android:id="@+id/departments"
+        android:icon="@drawable/ic_departments"
+        android:title="Departments" />
+    <item
+        android:id="@+id/resources"
+        android:icon="@drawable/ic_resources"
+        android:title="Resources" />
+
+</menu>
